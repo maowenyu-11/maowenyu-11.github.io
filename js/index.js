@@ -1,12 +1,12 @@
 {
     window.defaultConfig = {
-        GitHubUserName: 'first19326',
-        GitHubRepositories: 'Hexo-LiveForCode',
-        User: 'LiveForCode',
+        GitHubUserName: 'maowenyu-11',
+        GitHubRepositories: 'maowenyu-11.io',
+        User: 'maowenyu',
         UserAvatar: '/image/sidebar/avatar.jpg',
-        WebsiteStartDate: '2020-01-01',
+        WebsiteStartDate: '2024-01-01',
         Home: 'javascript:;',
-        WebsiteTitleBlur: '(◍´꒳`◍) Hi, Live For Code',
+        WebsiteTitleBlur: '(◍´꒳`◍) Hi, maowenyu',
         WebsiteTitleBlurTimeOut: 500,
         WebsiteTitleFocus: '(*´∇｀*) 欢迎回来!',
         WebsiteTitleFocusTimeOut: 1000,
@@ -103,7 +103,7 @@
         ],
         MenuLink : [],
         FooterStyle: 2,
-        BottomText: '<div><span class="face">ღゝ◡╹)ノ♡</span></div><div>【人生若只如初见<span><i class="iconfont icon-like-fill"></i></span>何事秋风悲画扇】</div><div>Live For Code</div>',
+        BottomText: '<div><span class="face">ღゝ◡╹)ノ♡</span></div><div>【山重水复疑无路<span><i class="iconfont icon-like-fill"></i></span>柳暗花明又一村】</div><div>一切都是最好的安排</div>',
         ConsoleList: [],
         FontIconExtend: '',
         Donate: {
